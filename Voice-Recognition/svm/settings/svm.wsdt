@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+
+<Workspace>
+  <ConfigDictionary>
+    
+  <CurrentConfigs><Project>svm/Debug</Project></CurrentConfigs></ConfigDictionary>
+  <Desktop>
+    <Static>
+      <Build>
+        
+        
+        
+        
+      <ColumnWidth0>20</ColumnWidth0><ColumnWidth1>685</ColumnWidth1><ColumnWidth2>707</ColumnWidth2><ColumnWidth3>49</ColumnWidth3></Build>
+      <Workspace>
+        <ColumnWidths>
+          
+          
+          
+          
+        <Column0>77</Column0><Column1>27</Column1><Column2>27</Column2><Column3>27</Column3></ColumnWidths>
+      </Workspace>
+    <Debug-Log><ColumnWidth0>22</ColumnWidth0><ColumnWidth1>1219</ColumnWidth1></Debug-Log><TerminalIO/><Select-Ambiguous-Definitions><ColumnWidth0>440</ColumnWidth0><ColumnWidth1>62</ColumnWidth1><ColumnWidth2>754</ColumnWidth2></Select-Ambiguous-Definitions></Static>
+    <Windows>
+      
+      
+    <Wnd0>
+        <Tabs>
+          <Tab>
+            <Identity>TabID-30379-28681</Identity>
+            <TabName>Build</TabName>
+            <Factory>Build</Factory>
+            <Session/>
+          </Tab>
+        <Tab><Identity>TabID-14334-20330</Identity><TabName>Debug Log</TabName><Factory>Debug-Log</Factory><Session/></Tab><Tab><Identity>TabID-21880-27883</Identity><TabName>Ambiguous Definitions</TabName><Factory>Select-Ambiguous-Definitions</Factory><Session/></Tab></Tabs>
+        
+      <SelectedTab>0</SelectedTab></Wnd0><Wnd2>
+        <Tabs>
+          <Tab>
+            <Identity>TabID-8360-28684</Identity>
+            <TabName>Workspace</TabName>
+            <Factory>Workspace</Factory>
+            <Session>
+              
+            <NodeDict><ExpandedNode>svm</ExpandedNode><ExpandedNode>svm/EWARM</ExpandedNode><ExpandedNode>svm/STM32F4-Discovery</ExpandedNode><ExpandedNode>svm/STM32F4xx_StdPeriph_Driver</ExpandedNode><ExpandedNode>svm/User</ExpandedNode></NodeDict></Session>
+          </Tab>
+        </Tabs>
+        
+      <SelectedTab>0</SelectedTab></Wnd2></Windows>
+    <Editor>
+      
+      
+      
+      
+    <Pane><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\main.c</Filename><XPos>0</XPos><YPos>0</YPos><SelStart>0</SelStart><SelEnd>0</SelEnd><XPos2>0</XPos2><YPos2>359</YPos2><SelStart2>51367</SelStart2><SelEnd2>51367</SelEnd2></Tab><ActiveTab>0</ActiveTab></Pane><ActivePane>0</ActivePane><Sizes><Pane><X>1000000</X><Y>1000000</Y></Pane></Sizes><SplitMode>1</SplitMode></Editor>
+    <Positions>
+      
+      
+      
+      
+      
+    <Top><Row0><Sizes><Toolbar-040A8230><key>iaridepm.enu1</key></Toolbar-040A8230></Sizes></Row0><Row1><Sizes><Toolbar-0BA1F220><key>debuggergui.enu1</key></Toolbar-0BA1F220></Sizes></Row1><Row2><Sizes><Toolbar-0BA20800><key>armstlink.enu1</key></Toolbar-0BA20800></Sizes></Row2></Top><Left><Row0><Sizes><Wnd2><Rect><Top>-2</Top><Left>-2</Left><Bottom>571</Bottom><Right>151</Right><x>-2</x><y>-2</y><xscreen>9</xscreen><yscreen>47</yscreen><sizeHorzCX>8789</sizeHorzCX><sizeHorzCY>68613</sizeHorzCY><sizeVertCX>149414</sizeVertCX><sizeVertCY>836496</sizeVertCY></Rect></Wnd2></Sizes></Row0></Left><Right><Row0><Sizes/></Row0></Right><Bottom><Row0><Sizes><Wnd0><Rect><Top>-2</Top><Left>-2</Left><Bottom>69</Bottom><Right>1026</Right><x>-2</x><y>-2</y><xscreen>1028</xscreen><yscreen>71</yscreen><sizeHorzCX>1003906</sizeHorzCX><sizeHorzCY>103650</sizeHorzCY><sizeVertCX>8789</sizeVertCX><sizeVertCY>68613</sizeVertCY></Rect></Wnd0></Sizes></Row0></Bottom><Float><Sizes/></Float></Positions>
+  </Desktop>
+</Workspace>
+
+
